@@ -16,6 +16,7 @@ body {
 
 body.new-page {
     background-image: url('https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/42/90/59/photo2jpg.jpg?w=1200&h=700&s=1');
+    background-position: center;
 }
 
 /* Link colors */
