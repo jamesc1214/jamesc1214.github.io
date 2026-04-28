@@ -24,6 +24,8 @@ body.new-page {
 body.story {
     background-image: url('images/storyboard.png'); 
     background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center center; 
 }
 
 /* Link colors */
