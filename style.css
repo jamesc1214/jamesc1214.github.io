@@ -21,7 +21,7 @@ body.new-page {
     background-position: center center;
 }
 
-body.story.html{
+body.story {
     background-image: url('images/storyboard.png'); 
 }
 
