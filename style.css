@@ -28,32 +28,6 @@ body.story {
     background-position: center center; 
 }
 
-.image-container {
-    position: relative; /* reference point for the bubble */
-}
-
-.image-container img {
-    position: relative;
-    z-index: 1; /* image on layer 1 */
-    width: 100%;
-}
-
-.speech-bubble {                          /* class selector: write once, reuse on every page in your story */
-    position: relative;                   /* lifts the bubble out of normal flow for precise placement */
-    top: 20px;
-    left: 20px;
-    z-index: 2;                           /* renders in front of the scene image (image is z-index: 1) */
-    background-color: rgb(194, 194, 255);
-    color: #111111;
-    padding: 12px 16px;                   /* space between text and bubble edge so it doesn't look cramped */
-    border: 6px solid #333333;
-    border-radius: 60px;                  /* softens corners into the rounded bubble shape */
-    margin: 10px;                         /* space outside the bubble, separates it from neighboring elements */
-    max-width: 600px;			          /* prevents the bubble from getting too wide on larger screens */
-    font-size: 60px;
-    line-height: 1.4;
-}
-
 /* Link colors */
 a {
     color: #0073e6; /* Link color */
