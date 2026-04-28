@@ -21,6 +21,10 @@ body.new-page {
     background-position: center center;
 }
 
+body.story.html{
+    background-image: url(''); 
+}
+
 /* Link colors */
 a {
     color: #0073e6; /* Link color */
