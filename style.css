@@ -31,8 +31,8 @@ body.story {
 .speech-bubble {
     position: relative;
     
-    top: 20px;
-    left: 20px;
+    top: 100px;
+    left: 100px;
     z-index: 2;
     
     background-color: rgb(194, 194, 255);
@@ -43,8 +43,8 @@ body.story {
     border-radius: 60px;
     margin: 10px;
     
-    max-width: 600px;
-    font-size: 60px;
+    max-width: 300px;
+    font-size: 30px;
     line-height: 1.4;
 }
 
