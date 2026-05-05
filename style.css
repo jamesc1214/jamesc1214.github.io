@@ -22,6 +22,7 @@ body.new-page {
 }
 
 body.story {
+    position: relative; 
     background-image: url('images/storyboard.png'); 
     background-repeat: no-repeat; 
     background-size: cover; 
@@ -31,7 +32,7 @@ body.story {
 }
 
 .speech-bubble {
-    position: relative;
+    position: absolute;
     
     top: 20px;
     left: 20px;
