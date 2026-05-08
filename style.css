@@ -51,7 +51,7 @@ body.story {
     line-height: 1.4;
 }
 
-.narration {
+.option {
     position: absolute;
     
     bottom: 30px;
@@ -73,7 +73,7 @@ body.story {
     line-height: 1.4;
 }
 
-.dialogue {
+.next {
     position: absolute;
     
     bottom: 50px;
