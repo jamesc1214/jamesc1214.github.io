@@ -20,6 +20,7 @@ body.new-page {
 
 body.story {
     position: relative; 
+    width: 100%;
 }
 
 .story img {
