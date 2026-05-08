@@ -32,7 +32,8 @@ body.story {
     position: absolute;
     
     bottom: 30px;
-    left: 50%;
+    left: 20px;
+    right: 20px;
     z-index: 2;
     
     background-color: rgb(255, 255, 255);
@@ -41,9 +42,9 @@ body.story {
     
     border: 3px solid #333333;
     border-radius: 60px;
-    margin: 10px;
+    /*margin: 10px;
     
-    max-width: 300px;
+    max-width: 300px;*/
     font-size: 30px;
     line-height: 1.4;
 }
@@ -52,7 +53,8 @@ body.story {
     position: absolute;
     
     bottom: 30px;
-    left: 50%;
+    left: 20px;
+    right: 20px;
     z-index: 2;
     
     background-color: rgb(237, 237, 237);
@@ -61,9 +63,9 @@ body.story {
     
     border: 3px solid #333333;
     border-radius: 60px;
-    margin: 10px;
+    /*margin: 10px;
     
-    max-width: 300px;
+    max-width: 300px;*/
     font-size: 30px;
     line-height: 1.4;
 }
