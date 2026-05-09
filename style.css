@@ -102,7 +102,7 @@ body.story {
     position: absolute;
     
     top: 500px;
-    left: 30px;
+    left: 300px;
 
     z-index: 9999; 
     
@@ -127,7 +127,7 @@ body.story {
     position: absolute;
     
     top: 500px;
-    right: 300px;
+    right: 400px;
 
     z-index: 9999; 
     
